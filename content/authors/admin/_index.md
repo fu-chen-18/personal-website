@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. student in Measurement, Evaluation, and Data Science
+role: Ph.D. Candidate in Measurement, Evaluation, and Data Science
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Measurement, Evaluation, and Data Science
     institution: University of Alberta
-    year: April 2021 (expected)
+    year: May 2021 (expected)
   - course: M.Ed. in Educational Measurement
     institution: Beijing Normal University
     year: 2017
@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 --- 
 
-I am currently a PhD student in Measurement, Evaluation, and Data Science at the University of Alberta. Before studying at U of A, I earned my bachelor’s and master’s degrees from Beijing Normal University, China. I have received training in psychology, psychometric measurement, and artificial intelligence, and have been an active researcher in the areas of psychoeducational studies, predictive learning analytics, and cognitive modeling.
+I am currently a PhD candidate in Measurement, Evaluation, and Data Science at the University of Alberta. Before studying at U of A, I earned my bachelor’s and master’s degrees from Beijing Normal University, China. I have received training in psychology, psychometric measurement, and data science, and have been an active researcher in the areas of psychoeducational studies, predictive learning analytics, and cognitive modeling.
 
-My primary focus of current research is on the intersection of psychometric measurement and data science. Specifically, I am interested in developing and applying novel computational methods (e.g., deep learning) to uncover and facilitate student learning using both product and process data on student interactions with digital learning environments. I am also interested in adapting data science techniques to address conventional measurement or assessment problems.
+My primary focus of current research is on the intersection of psychometrics and data science. Specifically, I am interested in developing and applying novel computational methods (e.g., deep learning) to uncover and facilitate student learning using both product and process data on student interactions with digital learning environments. I am also interested in adapting data science techniques to address conventional measurement or assessment problems.
 
-In the long term, I see myself engaged in a career devoted to active interdisciplinary research in developing and applying cutting-edge data science and psychometric techniques to decipher student learning or address complex assessment issues emerged in other settings (e.g., cognitive science, health, business). I am looking forward to any potential collaborations.
+In the long term, I see myself engaged in a career devoted to active interdisciplinary research in developing and applying cutting-edge data science and psychometric techniques to decipher student learning or address complex assessment issues emerged in other settings (e.g., cognitive science, health, and business). I am looking forward to any potential collaborations.
