@@ -24,6 +24,7 @@ interests:
 - Educational Data Mining
 - Learning Analytics
 - Educational Measurement
+- Data Science in Education
 
 education:
   courses:
