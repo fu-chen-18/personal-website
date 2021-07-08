@@ -29,7 +29,7 @@ education:
   courses:
   - course: Ph.D. in Measurement, Evaluation, and Data Science
     institution: University of Alberta
-    year: May 2021 (expected)
+    year: 2021
   - course: M.Ed. in Educational Measurement
     institution: Beijing Normal University
     year: 2017
