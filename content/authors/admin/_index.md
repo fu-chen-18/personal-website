@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Measurement, Evaluation, and Data Science
+role: Ph.D. in Measurement, Evaluation, and Data Science
 
 # Organizations/Affiliations
 organizations:
