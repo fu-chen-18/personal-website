@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 --- 
 
-I am currently a PhD candidate in Measurement, Evaluation, and Data Science at the University of Alberta. Before studying at U of A, I earned my bachelor’s and master’s degrees from Beijing Normal University, China. I have received training in psychology, psychometric measurement, and data science, and have been an active researcher in the areas of psychoeducational studies, predictive learning analytics, and cognitive modeling.
+I am currently a PhD in Measurement, Evaluation, and Data Science at the University of Alberta. Before studying at U of A, I earned my bachelor’s and master’s degrees from Beijing Normal University, China. I have received training in psychology, psychometric measurement, and data science, and have been an active researcher in the areas of psychoeducational studies, predictive learning analytics, and cognitive modeling.
 
 My primary focus of current research is on the intersection of psychometrics and data science. Specifically, I am interested in developing and applying novel computational methods (e.g., deep learning) to uncover and facilitate student learning using both product and process data on student interactions with digital learning environments. I am also interested in adapting data science techniques to address conventional measurement or assessment problems.
 
