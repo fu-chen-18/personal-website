@@ -2,32 +2,302 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fu Chen</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://brave-carson-2b4c80.netlify.app/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Fu Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright><lastBuildDate>Sat, 19 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Fu Chen</title>
-      <link>/</link>
+      <link>https://brave-carson-2b4c80.netlify.app/</link>
     </image>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
+      <title>Utilizing student time series behavior in learning management system for early prediction of course performance</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/jla-predictive-2020/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/jla-predictive-2020/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
+      <title>Automating test administration decisions in computerized formative assessment</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-shin/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining relation of information and communication technology to collaborative problem solving by hierarchical linear modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-gao/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive analytics of temporal behavior to automate formative feedback on course performance</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/predictive/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LogCF: Deep collaborative filtering with process data for enhanced learning outcome modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-jedm-2020/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-jedm-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing game analytics to inform and validate digital game-based assessment with evidence-centered game design: A case study</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-ijaied-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-ijaied-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing student process data with Bayesian knowledge tracing and dynamic Bayesian network</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/analyzing/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of aberrant response patterns using discrete variational autoencoder</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-guo/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing game analytics to inform digital game-based assessment design</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chen/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validity of process-based competency outcome claims using think-a-loud data and evidence-trace files</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chu/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying influential contextual factors of online reading literacy through a machine learning approach</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/aera-2020/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/aera-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the relation of perceived teacher unfairness to science achievement by hierarchical linear modeling in 52 countries and economies</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-investigating-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-investigating-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scale up predictive models for early detection of at-risk students: A feasibility study</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/cui-scale-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/cui-scale-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential factors contributing to students’ mathematics achievement (PISA 2012): A comparison between Alberta and Quebec</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/abed-2019-chen/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/abed-2019-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing student process data in game-based assessments with Bayesian knowledge tracing and dynamic Bayesian network</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/cui-analyzing-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/cui-analyzing-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the relation of personality factors to substance use disorder by explanatory item response modeling of DSM-5 symptoms</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-examining-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-examining-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing student success through predictive learning analytics</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ftl-2019-cui/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ftl-2019-cui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An item response theory analysis of DSM-5 heroin use disorder in a clinical sample of Chinese adolescents</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/yang-item-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/yang-item-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive analytic models of student success in higher education: A review of methodology</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/cui-predictive-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/cui-predictive-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prenatal alcohol exposure and its relation to intelligence, executive functions, and antisocial and prosocial outcomes</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/calson-2018/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/calson-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying the M2 statistic to evaluate the fit of diagnostic classification models in the presence of attribute hierarchies</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying the rule space model to develop a learning progression for thermochemistry</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying psychometric models in learning progressions studies: Theory, method and breakthrough</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/gao-applying-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/gao-applying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying M2 statistic to evaluate the fit of hierarchical diagnostic classification models</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2017-chen/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2017-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing a learning progression for number sense based on the rule space model in China</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-developing-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-developing-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using procedure based on item response theory to evaluate classification consistency indices in the practice of large-scale assessment</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/zhang-using-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/zhang-using-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-data fit test methods and statistics for cognitive diagnostic models</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-model-data-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-model-data-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construct validity of the children’s coping strategies scale (CCSS): A bifactor model approach</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/ouyang-construct-2016/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/ouyang-construct-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying the rule space model to develop a learning progression of thermochemistry</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/imps-2015-chen/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/imps-2015-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interviewer’s rating and influencing factors in structural interviews</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/xu-interviewers-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/xu-interviewers-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of interviewees’ nonverbal clues on interviewers’ ratings</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/china-2013-li/</link>
+      <pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/china-2013-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining the relation of information and communication technology usage to collaborative problem solving by hierarchical linear modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/gao-ict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/gao-ict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying key contextual factors of top performers in digital reading through a machine learning approach</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/chen-reading-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/chen-reading-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-validating a learning progression of buoyancy for middle school students</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/gao-buoyancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/gao-buoyancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using time-series prediction to inform test administration decisions in formative assessment</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/shin-time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/shin-time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What makes a good reader? Examining the role of reading self-efficacy through multilevel structural equation modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/chen-multilevel-sem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/chen-multilevel-sem/</guid>
+      <description></description>
     </item>
     
   </channel>

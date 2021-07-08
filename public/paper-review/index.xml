@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Fu Chen</title>
+    <link>https://brave-carson-2b4c80.netlify.app/paper-review/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/paper-review/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright>
+    <image>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/</link>
+    </image>
+    
+    <item>
+      <title>Examining the relation of information and communication technology usage to collaborative problem solving by hierarchical linear modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/gao-ict/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/gao-ict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying key contextual factors of top performers in digital reading through a machine learning approach</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/chen-reading-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/chen-reading-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Re-validating a learning progression of buoyancy for middle school students</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/gao-buoyancy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/gao-buoyancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using time-series prediction to inform test administration decisions in formative assessment</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/shin-time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/shin-time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What makes a good reader? Examining the role of reading self-efficacy through multilevel structural equation modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/chen-multilevel-sem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/chen-multilevel-sem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

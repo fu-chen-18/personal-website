@@ -3,49 +3,647 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication-type/2/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>https://brave-carson-2b4c80.netlify.app/authors/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/fu-chen/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication_types/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/fu-chen/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/jla-predictive-2020/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/ying-cui/</loc>
+    <lastmod>2020-09-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication-type/1/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-shin/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/chang-lu/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-gao/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/jinnie-shin/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/okan-bulut/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/predictive/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/yizhu-gao/</loc>
+    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-jedm-2020/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/man-wai-chu/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-ijaied-2020/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/analyzing/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-guo/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/mahnaz-shojaee/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/maryam-hachem/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/qi-guo/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chen/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chu/</loc>
+    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/alfred-sakyi/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/aera-2020/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/ali-shiri/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/higher-education/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-investigating-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/learning-analytics/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/learning-management-system/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/predictive-models/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/cui-scale-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/student-activity-data/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/student-course-success/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tags/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/abed-2019-chen/</loc>
+    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/alcohol-consumption/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/alcoholism/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/alcohols/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/cui-analyzing-2019/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/bayesian-knowledge-tracing/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/drug-users/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/dynamic-bayesian-networks/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/evidence-centered-design/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-examining-2019/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/formative-feedback/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/game-based-assessment/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/hongmei-yang/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/impulsivity/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/personality/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/process-data-analysis/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/recreational-drug-use/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/sensory-perception/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/tao-xin/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/ftl-2019-cui/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/shiri-ali/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/adolescents/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/yang-item-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/dsm-5/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/educational-data-mining/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/heroin-use-disorder/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/item-response-theory/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/machine-learning/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/methodology-review/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/cui-predictive-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/student-success/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/substance-use-disorders/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/validity/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/xiaoxiao-liu/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/yaqin-fan/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/aamena-kapasi/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/elizabeth-carlson/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/jacqueline-pei/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/mansfield-mela/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/calson-2018/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/tara-anderson/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/absolute-fit-test/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/attribute-hierarchies/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/diagnostic-classification-models/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/goodness-of-fit/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/limited-information-test-statistics/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/yanlou-liu/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2017/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/shanshan-zhang/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/yanfang-guo/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/gao-applying-2017/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/peida-zhan/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/yu-jiang/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2017-chen/</loc>
+    <lastmod>2017-04-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/cognitive-diagnostic-model/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-developing-2017/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/learning-path/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/learning-progression/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/number-sense/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/rule-space-model/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/yue-yan/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/ability-distribution/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/classification-consistency-index/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/cut-score/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/jiaxuan-du/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/ping-chen/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/tag/score-transformation-rule/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/zhang-using-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/chen-model-data-2016/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/tuo-liu/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/wei-tian/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/ouyang-construct-2016/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/xiangzi-ouyang/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/imps-2015-chen/</loc>
+    <lastmod>2015-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/han-zhou/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/publication/xu-interviewers-2014/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/jianping-xu/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/wei-zhang/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/wenya-li/</loc>
+    <lastmod>2014-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/conferences/china-2013-li/</loc>
+    <lastmod>2013-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/paper-review/gao-ict/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/fu-chen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/paper-review/chen-reading-machine-learning/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/paper-review/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/paper-review/gao-buoyancy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/paper-review/shin-time-series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/paper-review/chen-multilevel-sem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://brave-carson-2b4c80.netlify.app/author/xiaoming-zhai/</loc>
   </url>
   
 </urlset>

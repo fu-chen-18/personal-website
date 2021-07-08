@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chang Lu | Fu Chen</title>
+    <link>https://brave-carson-2b4c80.netlify.app/author/chang-lu/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/author/chang-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chang Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chang Lu</title>
+      <link>https://brave-carson-2b4c80.netlify.app/author/chang-lu/</link>
+    </image>
+    
+    <item>
+      <title>Automating test administration decisions in computerized formative assessment</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-shin/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using time-series prediction to inform test administration decisions in formative assessment</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/shin-time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/shin-time-series/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

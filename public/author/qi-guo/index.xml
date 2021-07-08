@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qi Guo | Fu Chen</title>
+    <link>https://brave-carson-2b4c80.netlify.app/author/qi-guo/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/author/qi-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qi Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright><lastBuildDate>Sun, 19 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Qi Guo</title>
+      <link>https://brave-carson-2b4c80.netlify.app/author/qi-guo/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing student process data with Bayesian knowledge tracing and dynamic Bayesian network</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/analyzing/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of aberrant response patterns using discrete variational autoencoder</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-guo/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing game analytics to inform digital game-based assessment design</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chen/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validity of process-based competency outcome claims using think-a-loud data and evidence-trace files</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chu/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chu/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

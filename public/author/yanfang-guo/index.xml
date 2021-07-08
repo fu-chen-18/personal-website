@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanfang Guo | Fu Chen</title>
+    <link>https://brave-carson-2b4c80.netlify.app/author/yanfang-guo/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/author/yanfang-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanfang Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yanfang Guo</title>
+      <link>https://brave-carson-2b4c80.netlify.app/author/yanfang-guo/</link>
+    </image>
+    
+    <item>
+      <title>Applying the rule space model to develop a learning progression for thermochemistry</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying the rule space model to develop a learning progression of thermochemistry</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/imps-2015-chen/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/imps-2015-chen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

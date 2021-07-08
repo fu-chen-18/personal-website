@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Presentations | Fu Chen</title>
+    <link>https://brave-carson-2b4c80.netlify.app/conferences/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conference Presentations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Conference Presentations</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/</link>
+    </image>
+    
+    <item>
+      <title>Automating test administration decisions in computerized formative assessment</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-shin/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-shin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examining relation of information and communication technology to collaborative problem solving by hierarchical linear modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-gao/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive analytics of temporal behavior to automate formative feedback on course performance</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/predictive/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing student process data with Bayesian knowledge tracing and dynamic Bayesian network</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/analyzing/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of aberrant response patterns using discrete variational autoencoder</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-guo/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing game analytics to inform digital game-based assessment design</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chen/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validity of process-based competency outcome claims using think-a-loud data and evidence-trace files</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chu/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2020-chu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying influential contextual factors of online reading literacy through a machine learning approach</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/aera-2020/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/aera-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential factors contributing to students’ mathematics achievement (PISA 2012): A comparison between Alberta and Quebec</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/abed-2019-chen/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/abed-2019-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing student success through predictive learning analytics</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ftl-2019-cui/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ftl-2019-cui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prenatal alcohol exposure and its relation to intelligence, executive functions, and antisocial and prosocial outcomes</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/calson-2018/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/calson-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying M2 statistic to evaluate the fit of hierarchical diagnostic classification models</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2017-chen/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/ncme-2017-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying the rule space model to develop a learning progression of thermochemistry</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/imps-2015-chen/</link>
+      <pubDate>Wed, 15 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/imps-2015-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of interviewees’ nonverbal clues on interviewers’ ratings</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/china-2013-li/</link>
+      <pubDate>Fri, 15 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/china-2013-li/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

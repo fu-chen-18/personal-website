@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>goodness-of-fit | Fu Chen</title>
+    <link>https://brave-carson-2b4c80.netlify.app/tag/goodness-of-fit/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/tag/goodness-of-fit/index.xml" rel="self" type="application/rss+xml" />
+    <description>goodness-of-fit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>goodness-of-fit</title>
+      <link>https://brave-carson-2b4c80.netlify.app/tag/goodness-of-fit/</link>
+    </image>
+    
+    <item>
+      <title>Applying the M2 statistic to evaluate the fit of diagnostic classification models in the presence of attribute hierarchies</title>
+      <link>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/publication/chen-applying-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

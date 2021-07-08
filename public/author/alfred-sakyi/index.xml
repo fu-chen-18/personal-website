@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alfred Sakyi | Fu Chen</title>
+    <link>https://brave-carson-2b4c80.netlify.app/author/alfred-sakyi/</link>
+      <atom:link href="https://brave-carson-2b4c80.netlify.app/author/alfred-sakyi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alfred Sakyi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Fu Chen 2021</copyright><lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://brave-carson-2b4c80.netlify.app/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alfred Sakyi</title>
+      <link>https://brave-carson-2b4c80.netlify.app/author/alfred-sakyi/</link>
+    </image>
+    
+    <item>
+      <title>Identifying influential contextual factors of online reading literacy through a machine learning approach</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/aera-2020/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/aera-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influential factors contributing to students’ mathematics achievement (PISA 2012): A comparison between Alberta and Quebec</title>
+      <link>https://brave-carson-2b4c80.netlify.app/conferences/abed-2019-chen/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/conferences/abed-2019-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying key contextual factors of top performers in digital reading through a machine learning approach</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/chen-reading-machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/chen-reading-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What makes a good reader? Examining the role of reading self-efficacy through multilevel structural equation modeling</title>
+      <link>https://brave-carson-2b4c80.netlify.app/paper-review/chen-multilevel-sem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://brave-carson-2b4c80.netlify.app/paper-review/chen-multilevel-sem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
