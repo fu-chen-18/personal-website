@@ -2,11 +2,14 @@
 title: "Fu Chen"
 authors: admin
 superuser: yes
-output: word_document
+output:
+  html_document:
+    df_print: paged
 organizations:
 - name: University of Alberta
   url: https://www.ualberta.ca
-bio: My research interests include educational data mining, learning analytics, and data science applications in education.
+bio: My research interests include educational data mining, learning analytics, and
+  data science applications in education.
 interests:
 - Educational Data Mining
 - Learning Analytics
