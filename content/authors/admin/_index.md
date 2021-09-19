@@ -6,8 +6,8 @@ output:
   html_document:
     df_print: paged
 organizations:
-- name: University of Alberta
-  url: https://www.ualberta.ca
+- name: University of Macau
+  url: https://www.um.edu.mo/
 bio: My research interests include educational data mining, learning analytics, and
   data science applications in education.
 interests:
@@ -40,7 +40,7 @@ email: fu4@ualberta.ca
 user_groups:
 - Researchers
 - Visitors
-role: Ph.D. in Measurement, Evaluation, and Data Science
+role: Assistant Professor of Data Science in Education
 --- 
 
 I am an Assistant Professor in the Faculty of Education at the University of Macau. I completed my Ph.D. in Measurement, Evaluation, and Data Science at the University of Alberta in July 2021. Before studying at U of A, I earned my bachelor’s and master’s degrees from Beijing Normal University, China. I have received training in psychology, educational measurement, and data science, and have been an active researcher in the areas of psychoeducational studies, learning analytics, and educational data mining.
