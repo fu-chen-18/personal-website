@@ -81,16 +81,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "fu4@ualberta.ca"
+email = "fuchen@um.edu.mo"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "6-110 Education Centre North, University of Alberta, 11210 87 Ave NW", city = "Edmonton", region = "AB", postcode = "T6G 2G5", country = "Canada", country_code = "CA"}
+address = {street = "1022, Faculty of Education (E33), University of Macau, Avenida da Universidade", city = "Macau", region = "Taipa", postcode = "", country = "China", country_code = "MO"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "53.523396", longitude = "-113.5234"}
+coordinates = {latitude = "22.12322", longitude = "113.54622"}
 
 # Directions for visitors to locate you.
 directions = ""
