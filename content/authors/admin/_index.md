@@ -29,7 +29,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:fu4@ualberta.ca
+  link: mailto:fuchen@um.edu.mo
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=b6BQdmkAAAAJ&hl=en
